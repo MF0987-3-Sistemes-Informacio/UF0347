@@ -9,6 +9,13 @@ Contenidos
 - Por la frecuencia de su utilización: activo o de gestión, semiactivo o definitivo.  
 - Por el tipo de soporte utilizado: papel y electrónico.
 
+• **El proceso de archivamiento**
+- El registro de la documentación
+- La clasificación y la ordenación
+- La codificación
+- El pre-archivamiento
+- El archivamiento
+
 • Sistemas de registro y clasificación de documentos.	
 - Alfabético.  
 - Numérico.  
@@ -19,12 +26,15 @@ Contenidos
 - Otros.
 
 • Mantenimiento del archivo físico.  
-- Recursos materiales.  
+- Recursos materiales:
+    * Las carpetas
+    * El mobiliario
+    * Otros elementos
 - Infraestructura de archivo.
 
 • Mantenimiento del archivo informático.  
-- Métodos.  
-- Unidades de conservación.
+- Métodos (microfilmación, escaneado)
+- Unidades de persistencia.
 
 • Planificación de	un	archivo de	gestión de	la	documentación.  
 - Análisis de la estructura de  la organización y el tipo de actividad, para fijar la estructura de archivo más adecuada.  
@@ -35,6 +45,14 @@ Contenidos
 - Normas de conservación de documentación obsoleta o histórica: destrucción, archivo definitivo...  
 - Elaboración de manual de archivo, atendiendo a la normativa vigente, en relación con la calidad, uso y conservación de archivos.  
 - Comunicación a los empleados de los procedimientos de acceso.
+
+• Custodia y protección del archivo
+- El responsable del archivo
+- Procedimientos de seguridad y confidencialidad de la información
+- El acceso al archivo
+- El control de la documentación
+- La transferencia de la documentación
+- La destrucción de la documentación
 
 • Flujogramas en la representación de procedimientos y procesos.
 - Concepto.  
