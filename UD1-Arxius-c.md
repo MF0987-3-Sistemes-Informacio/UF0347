@@ -771,7 +771,9 @@ un error:
 ```
 Destrucció de la documentació
 
-Diversos casos d’abandonament de documentació als contenidors d’escombraries sense haver-la destruït de manera adequada han tingut repercussió mediàtica i han arribat a generar alarma social.
+Diversos casos d’abandonament de documentació als contenidors d’escombraries
+sense haver-la destruït de manera adequada han tingut repercussió mediàtica
+i han arribat a generar alarma social.
 ```
 
 #### **Flujogramas en la representación de procedimientos y procesos**
