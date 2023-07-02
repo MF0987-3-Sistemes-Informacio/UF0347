@@ -797,9 +797,9 @@ Podemos clasificar los distintos diagramas de flujo en varios tipos.
     * De texto e ilustraciones. Se muestra el manejo de la información por medio de textos y dibujos.
     * Procesados por computadora. El flujo de información se hace utilizando recursos de software.
 
-![flujograma1](https://github.com/MF0987-3-Sistemes-Informacio/UF0347/blob/main/img/flujograma1.png?raw=true)
+![flujograma1](https://github.com/MF0987-3-Sistemes-Informacio/UF0347/blob/main/img/flujogramas1.png?raw=true)
 
-![flujograma2](https://github.com/MF0987-3-Sistemes-Informacio/UF0347/blob/main/img/flujograma2.png?raw=true)
+![flujograma2](https://github.com/MF0987-3-Sistemes-Informacio/UF0347/blob/main/img/flujogramas2.png?raw=true)
 
 
 [Ejemplo diagrama de flujo RRHH](https://www.appvizer.es/revista/recursos-humanos/reclutamiento/flujograma-reclutamiento) 
