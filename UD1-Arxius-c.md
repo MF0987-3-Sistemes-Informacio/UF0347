@@ -224,6 +224,8 @@ Teniendo en cuenta las fases del **ciclo de vida** de un documento, los archivos
 
 **Pasivo** o **definitivo**: **edad histórica**: para documentos que han superado el tiempo establecido por norma legal y no se prevee que sean consultados.
 
+![cicle_vida](https://github.com/MF0987-3-Sistemes-Informacio/UF0347/blob/main/img/cicle_vida_docs.png?raw=true)
+
 El Código de Comercio establece en **6 años** el tiempo que debe guardarse la documentación. Pasado este tiempo, se puede destruir.
 
 ---
@@ -286,7 +288,7 @@ Es conveniente que, una vez localizada la carpeta, exista un sistema adicional d
 
 Otra opción podría ser anotar en lápiz en cada documento la fecha en que pueden ser destruidos o movidos a un archivo histórico.
 
-![fases_arxivament](https://github.com/MF0987-3-Sistemes-Informacio/UF0347/blob/main/img/arxivadors.png?raw=true)
+![fases_arxivament](https://github.com/MF0987-3-Sistemes-Informacio/UF0347/blob/main/img/fases_arxivament.png?raw=true)
 
 ---
 
@@ -364,24 +366,192 @@ Los sistemas de clasificación y ordenación mencionados no son los únicos posi
 
 ### • Mantenimiento del archivo físico.  
 
+![fases_arxivament](https://github.com/MF0987-3-Sistemes-Informacio/UF0347/blob/main/img/arxivadors.png?raw=true)
 
-
-- Recursos materiales:
+- Recursos materiales convencionales:
     * Las carpetas
+    Pueden ser de diversos tipos:
+        * Carpetas clasificadoras: amplias, con compartimentos etiquetados. Suelen utilizarse para clasificar recibos, vencimientos...
+        * Carpetas simples: con enganches de plástico en la parte superior de cada solapa que permiten su colocación sobre guías en un bastidor. Son de gran utilidad por su movilidad. Se utilizan, por ejemplo, para clasificar listados informáticos generados por impresora, expedientes con pocos documentos...
+        * Subcarpetas (cartulina): se usan para separar documentos de forma horizontal.
+        * Carpetas archivador tipo A-Z: disponen de dos ganchos de medida estándar para perforar papel que se acciona mediante palanca. Los documentos suelen ordenarse alfabéticamente.
+        * Carpetas con anillas: con dos anillas para archivar documentos después de ser perforados.
+
     * El mobiliario
+        * Estanterías: baldas simples o estantes.
+        * Estanterías modulares. Se les pueden añadir persianas para privacidad.
+        * Armarios con carpetas suspendidas: clásico mueble archivador metálico con un determinado número de cajones, con bastidores para contener en suspensión las carpetas simples apoyadas sobre sus guías.
+        * Carros, carros moviles para carpetas colgantes.
+        * Armarios sobre raíles.
+        * **Armarios de seguridad**: ignífugos, antitérmicos, con llave o clave de acceso, etc.
+
     * Otros elementos
+        * Cajas de archivo definitivo
+        * Tarjeteros y tarjetas de registro
+        * Archivador acordeón
+        * etc.
+
 - Infraestructura de archivo.
 
-• Mantenimiento del archivo informático.  
+Para empresas pequeñas será suficiente uno o varios armarios o archivadores.
+
+Si el volumen es alto y la empresa más grande, será necesaria una habitación o incluso un edificio entero, que se covertirá en el archivo.
+
+La elección de los locales, mobiliario etc. deberá tener en cuenta:
+
+* Deben evitarse lugares expuestas a cambios de temperatura brucos, a humedades, a filtraciones, etc.
+* No deberán ser lugares o materiales inflamables o expuestos a riesgos o insectos como las termitas.
+* Debemos disponer de medidas de seguridad contra incendios, materiales ignífugos, etc.
+
+### • Mantenimiento del archivo informático.  
+
 - Métodos (microfilme, escaneado, digitalización)
+
+> El **microfilme** es la técnica fotográfica que consiste en reducir, conservar y archivar documentos de cualquier tipo (planos, libros, revistas...).
+
+Este sistema consiste en realizar fotografías a los documentos a través de la microfilmación, reduciendo considerablemente el tamaño del documento fotografiado. Esta microfotografía se archiva y, mediante los visores correspondientes, es ampliada para su visualización y consulta. En caso de que se desee realizar una copia sobre el papel, se utilizarán los reproductores. Permite realizar copias con gran rapidez.
+
+> Escaneado y OCR
+
+Indexación, almacenaje de grandes volúmenes de información en poco espacio, recuperación rápida y visualización en pantalla de ordenador, múltiples criterios de búsqueda y catalogación de archivos.
+
 - Unidades de persistencia.
 
-• Planificación de	un	archivo de	gestión de	la	documentación.  
-- Análisis de la estructura de  la organización y el tipo de actividad, para fijar la estructura de archivo más adecuada.  
-- Determinación de contenidos y tipo de documentos a archivar.  
-- Sistemas de registro y codificación a implantar.  
-- Clasificación de documentos y niveles de acceso y restricciones del personal.  
-- Definición de las formas de acceso al archivo.  
+SSD, microfilme, discos duros (HDD), pen drive, tarjetas de memoria, servidores, la nube (pública, privada), etc.
+
+---
+
+### • Planificación de	un	archivo de	gestión de	la	documentación. 
+
+Para poder planificar un archivo de gestión, es necesario elaborar un plan de trabajo. Este plan necesita la implicación de todos los responsables del archivo.Comienza con una reunión de todos los responsables. 
+
+Hay que estudiar detenidamente cuáles son los problemas del archivo de oficina. 
+
+> La utilización de cuestionarios será de gran utilidad para revelar la situación real en la que se encuentra. 
+
+Hay que recopilar información de la organización y de toda la documentación que se genera. Es fundamental identificar el organismo, su estructura, los objetivos y sus competencias. 
+
+Hay que obtener un consenso sobre la producción de documentos, identificar las series documentales, el número de expedientes, los plazos de vigencia, etc.
+
+Hay que llevar a cabo un plan de actuación, que se basa en los siguientes aspectos:
+
+* Elaborar un cuadro de clasificación general.
+* Diseñar el recorrido de la documentación para favorecer la correcta organización. 
+* Diseñar diversos métodos para poder recuperar los documentos.
+* Una estimación de la cantidad de documentos y las futuras ampliaciones para determinar las necesidades en cuanto al espacio.  
+
+Por último, hay que detallar algunos **instrumentos** que se utilizan en el archivo de gestión:
+
+* Cuadro de clasificación.
+* Manual de normas.
+* Registro de transferencias: se establece una relación de transferencias de documentos entre las distintas partes de los archivos.
+* Instrumentos de control: se lleva a cabo un registro de las entradas, salidas y préstamos de los documentos.
+* Instrumentos de búsqueda: son instrumentos que permiten obtener una rápida información del contenido y la localización de los documentos.
+
+
+#### Análisis de la estructura de  la organización y el tipo de actividad, para fijar la estructura de archivo más adecuada.  
+
+El análisis de la estructura de la organización es crucial para comprender su papel y propósito, así como para identificar fortalezas y debilidades en la gestión de documentos. Esta investigación preliminar es fundamental para tomar decisiones futuras, especialmente al crear un cuadro de clasificación. Durante el análisis de la actividad, se estudian las funciones, actividades, procesos y trámites de la organización, con el objetivo de desarrollar un modelo conceptual que relacione los documentos con las actividades. 
+
+Además, es importante identificar estrategias que satisfagan las necesidades de gestión documental, considerando la naturaleza de la organización, su tipo de actividad, las tecnologías utilizadas, la cultura corporativa y los factores externos. Se debe seleccionar un sistema de organización adecuado en función del número de personas atendidas y el tipo de actividad. Los sistemas elegidos deben funcionar como un todo integrado para garantizar el seguimiento de los documentos desde su creación hasta su valoración final.
+
+#### Determinación de contenidos y tipo de documentos a archivar.  
+
+Para llevar a cabo una buena organización del archivo, hay que diferenciar entre los **documentos de archivo** y los **documentos de apoyo administrativo**. 
+
+Los documentos de archivo son conjuntos orgánicos de documentos que responden a la dinámica de la oficina que los produce. Están relacionados con los que le preceden y los que le siguen (tienen carácter seriado). 
+
+Son fuentes primarias de información y sirven como testimonio de la actividad de la organización. Una vez transcurridos los plazos establecidos de validez administrativa, legal, fiscal e informativa, deberán ser transferidos al archivo central.
+
+Entre los documentos administrativos que se pueden archivar, estos son los más frecuentes:  
+• De decisión. Resoluciones y acuerdos.  
+• De transmisión. Comunicaciones, notificaciones y publicaciones.  
+• De constancia. Actas y certificados.  
+• De juicio. Informes   
+• De ciudadanos. Solicitudes, alegaciones y recursos.
+
+Las agrupaciones documentales que podemos encontrar en un archivo de oficina son:  
+• Expedientes. Es una unidad organizada de documentos para su utilización frecuente, y se refieren al mismo tema, actividad o asunto. El expediente es generalmente la unidad básica de la serie.   
+• Serie. Documentos organizados de acuerdo con un sistema de archivo o con-servados formando una unidad.   
+• Libros de registro. Reunión de documentos que no tienen relación uno con otro, pero que han sido agrupados solo por su función de control.   
+• Carpetas de asuntos. No se inscriben en ninguna fase de tramitación. Pue-de definirse como un expediente breve si entendemos que cualquier solicitud dirigida a un órgano de la administración inicia un expediente.  
+
+Los documentos de apoyo administrativo son los que sirven de **ayuda** a la gestión administrativa. Pueden ser boletines oficiales, revistas, publicaciones o informes elaborados por otras organizaciones, etc. **No serán trasferidos al archivo central y se destruirán en la propia oficina**.
+
+> Los documentos de apoyo administrativo no testimonian la actividad de la organización y no forman parte de su patrimonio documental, por lo tanto, no se transferirán al archivo general y serán destruidos.
+
+
+#### Sistemas de registro y codificación a implantar. 
+
+En el contexto de un archivo dinámico, es importante implementar sistemas de registro y codificación. El control de la documentación se logra mediante hojas de control que registran la entrada y salida de documentos, incluyendo la fecha, hora y responsable. Se recomienda utilizar bases de datos o hojas de cálculo con códigos para identificar y distinguir los documentos. La codificación implica asignar letras, números o una combinación de ambos a los documentos clasificados para su registro y archivo. 
+
+Es fundamental elegir un sistema de clasificación y codificación que se ajuste a las características de los documentos, siendo breve, lógico, expresivo, flexible y sencillo. Se sugiere evitar secuencias demasiado largas de letras o números.
+
+Sistemas de codificación: Alfabético; Numérico; Cronológico.
+
+Ejemplo:
+
+Movimiento      Fecha       Hora    Documento   Empleado
+E               31/07/2021  14:04   10-C0-05-15 Laura Cases
+S               07/09/2021  09:43   10-C0-07/11 Joan Puig
+
+
+#### Clasificación de documentos y niveles de acceso y restricciones del personal.  
+
+La clasificación de documentos es una operación archivística que establece categorías y grupos dentro de la estructura del archivo. Se realiza mediante un cuadro de clasificación que respeta los principios de procedencia y orden original. Esta clasificación tiene como objetivo proporcionar una estructura lógica al fondo documental que represente la institución y facilite la localización de los documentos. Es importante que sea flexible para adaptarse a los cambios en la estructura de la organización. 
+
+La clasificación acelera la recuperación de la información, ahorra espacio de almacenamiento y asegura que los documentos se archiven de manera uniforme. Cada organización puede elegir el modelo de clasificación que mejor se adapte a sus necesidades, priorizando la simplicidad, flexibilidad y eficacia.
+
+Los principales sistemas de clasificación son los siguientes: 
+
+- La **clasificación orgánica** establece grupos basados en la procedencia de la documentación, reflejando la estructura orgánica de la institución. Es fácil de aplicar, ya que se basa en el organigrama de la institución, pero puede resultar más rígida al no reflejar cambios en la estructura. Se utiliza en organismos con una estructura menos compleja.
+
+- La **clasificación funcional** separa los grupos según las funciones y actividades de la institución. Es un método más complejo, ya que requiere un estudio más profundo de la institución, pero es más flexible al no limitarse a las dependencias administrativas de un momento específico. Se emplea en organismos de larga duración y que cambian frecuentemente su estructura.
+
+- **Clasificación por materias**. Reúne las series documentales según los asuntos o materias que aborda. Su uso es recomendable solo para casos excepcionales, debido a que este sistema no siempre respeta el principio de procedencia
+
+> Es muy normal que se utilice en las oficinas el método **orgánico-funcional**. Es el método más recomendado por lo flexible que es para recoger tanto las funciones generales como las específicas.
+
+**Autorizaciones y acceso**:
+
+El acceso y restricción del personal a los archivos u organizaciones considera varios aspectos. En los archivos descentralizados, los responsables de cada sección tienen acceso directo a los documentos, mientras que en los archivos centralizados, los responsables de la oficina deciden quién puede acceder y qué documentos, además de regular el préstamo de documentos para evitar pérdidas. El archivista puede restringir el acceso y llevar un control de la documentación. 
+
+En los archivos informáticos, existen diferentes permisos de acceso según el tipo de usuario, como lectura, modificación y eliminación, y se utilizan contraseñas y cifrado para proteger información confidencial. Las restricciones generales aplican a todos los documentos y están relacionadas con la protección de datos personales, privacidad, seguridad, investigación legal, secretos comerciales y seguridad nacional. 
+
+La clasificación de la documentación se realiza en diferentes niveles de acceso, como **público** (sin protección especial) y **restringido** (con información sensible que requiere controles de acceso).
+
+
+#### Definición de las formas de acceso al archivo. 
+
+Las formas de acceso al archivo se dividen en **acceso físico** y **acceso electrónico**. 
+
+Para el archivo físico, se utiliza un protocolo de acceso y se registran las solicitudes de documentos mediante fichas. 
+
+En el archivo electrónico, cualquier persona puede acceder a la localización del documento a través de un ordenador. 
+
+Es importante implementar medidas de seguridad tanto en archivos físicos como electrónicos para proteger la información confidencial. Se deben identificar las ubicaciones con información confidencial y almacenarla en sitios con mecanismos de cierre, como armarios bajo llave. 
+
+Es necesario establecer una **normativa clara** en la organización y promoverla entre los empleados. 
+
+Los documentos confidenciales deben tener un registro de acceso, utilizando sistemas de videovigilancia y dispositivos de acceso personales. Se debe evitar dejar documentos confidenciales sobre las mesas de los empleados, fomentando una política de mesas limpias y almacenamiento adecuado.
+
+En cuanto a las **normas de seguridad y acceso** hay que señalar:
+
+* Identificación de las personas que van a acceder al archivo. Deben estar autorizadas y, si no es así, deben ir acompañadas por personal responsable del archivo.
+
+Para mantener la integridad de los archivos, debe ser obligatorio que la consulta sea supervisada por los empleados del archivo y, si se trata de documentos electrónicos, mediante mecanismos informáticos que puedan garantizar su in-tegridad y protección.
+
+* Implantación de claves para evitar el acceso al archivo informático a personas que no estén autorizadas, especialmente para documentos que tengan carácter reservado o confidencial.
+
+* Actualización de los programas antivirus para evitar que la información con-tenida en los programas no se deteriore o se destruya.
+
+* Realización de copias de seguridad periódicas, para evitar la pérdida de información incluida en los archivos informáticos.
+
+* Se deben tomar medidas necesarias para la conservación de los documentos, protegiéndolos tanto del deterioro físico como de que puedan caer en manos ajenas.
+
+
+
+
 - Normas de conservación de documentación obsoleta o histórica: destrucción, archivo definitivo...  
 - Elaboración de manual de archivo, atendiendo a la normativa vigente, en relación con la calidad, uso y conservación de archivos.  
 - Comunicación a los empleados de los procedimientos de acceso.
