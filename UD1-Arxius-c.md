@@ -286,19 +286,86 @@ Es conveniente que, una vez localizada la carpeta, exista un sistema adicional d
 
 Otra opción podría ser anotar en lápiz en cada documento la fecha en que pueden ser destruidos o movidos a un archivo histórico.
 
-![fases_arxivament](https://github.com/MF0987-3-Sistemes-Informacio/UF0347/blob/main/img/fases_arxivament.png?raw=true)
+![fases_arxivament](https://github.com/MF0987-3-Sistemes-Informacio/UF0347/blob/main/img/arxivadors.png?raw=true)
+
+---
+
+### • Sistemas de registro y clasificación de documentos.  
+
+#### **Alfabético**.  
+
+Es el más usado en las empresas.
+
+Palabra **ordenatriz**.
+
+Procedimiento:
+
+- Se ordena de la A a la Z y, dentro de cada palabra, letra a letra, empezando por la primera por la izquierda, luego por la segunda y así sucesivamente. Por ejemplo Cas**a**cuberta va antes que Cas**e**s.
+
+- No se tienen en cuenta los signos de puntuación (comillas, interrogantes, admiración, etc.)
+
+- Las consonantes dobles se toman como dos letras independientes. Por ejemplo L**l**anos va antes que L**ó**pez.
+
+- Para ordenar los nombres de personar, empresas, etc. se dan diversos casos:
+    * Personas físicas: **la palabra ordenatriz es el primer apellido**. Si es coincidente, se tomará el segundo apellido. Si éste también es coincidente, se toma el nombre propio. En caso de continuar la coincidencia, habrá que decidir un segundo criterio de ordenación, que puede ser el geográfico.
+    * Empresas u otras organizaciones: se clasificarán por **la primera palabra de la razón social**, considerando:
+        * No se cuentan los nombres genéricos (tienda, editorial, bar...)
+        * No se cuentan los nombres que hagan referencia a parentescos (viuda de, hijos de, etc.)
+        * Las AAPP, bancos y similares se ordenarán atendiendo a su **nombre genérico**.
+        * Si llevan artículo, **sí** se tendrá en cuenta.
 
 
-• Sistemas de registro y clasificación de documentos.	
-- Alfabético.  
-- Numérico.  
-- Alfanumérico.  
-- Temático.  
-- Geográfico.  
-- Cronológico.  
-- Otros.
+#### **Numérico**. 
 
-• Mantenimiento del archivo físico.  
+Se asigna un número a cada documento, independientemente a su fecha o su temática, mediante un orden decimal (0-9).
+
+Se utiliza mucho para documentación a incluir en expedientes.
+
+Ejemplo: 00001, 00002, 00003 ....
+
+Es habitual combinar esta ordenación con otras.
+
+#### **Alfanumérico**.
+
+Es una combinación de las ordenaciones alfabética y numerica.
+
+Por ejemplo:  
+A.1.2.a  
+11.a  
+KPS-121
+
+
+#### **Temático**.
+
+La documentación se agrupa según su contenido, por temas o materias. 
+
+Dentro de cada tema, se agrupa por otro orden: cronológico, numérico, alfabético...
+
+Es útil cuando tenemos pocos temas, pero mucha documentación en cada uno de ellos. Por ejemplo: compras, ventas, marqueting, personal, calidad, etc.
+
+#### **Geográfico**.
+
+La documentación se agrupa por su ubicación geográfica o por las áreas de negocio en las que la empresa se divide según su zona de acción (Catalunya, País Basco, Europa Sur, etc.).
+
+El orden se establece por países, comunidades autónomas, províncias, comarcas, localidades, calles.
+
+
+#### **Cronológico**.
+
+Se archiva en función de la **fecha de entrada**, **de salida** o **de creación** del documento,
+
+Cada documento llevará asignada una fecha. Por ejemplo: 11.06.20
+
+#### **Otros**.
+
+Los sistemas de clasificación y ordenación mencionados no son los únicos posibles. Cualquier combinación de ellos es también habitual, así como otros sistemas de clasificación propios de cada empresa y acorde con sus reglas de negocio.
+
+---
+
+### • Mantenimiento del archivo físico.  
+
+
+
 - Recursos materiales:
     * Las carpetas
     * El mobiliario
@@ -331,7 +398,10 @@ Otra opción podría ser anotar en lápiz en cada documento la fecha en que pued
 - Concepto.  
 - Características, tipos, simbología, diseño y elaboración.
 
-### 2. Utilización y optimización de sistemas informáticos de oficina
+
+--- 
+
+## 2. Utilización y optimización de sistemas informáticos de oficina
 
 • Análisis de sistemas operativos.  
 - Evolución, clasificación y funciones. 
