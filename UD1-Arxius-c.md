@@ -30,6 +30,28 @@ Un documento consta de dos partes:
 - Audiovisuales (multimedia)
 - Informáticos (hoja de cálculo, base de datos)
 
+#### El valor de la documentación
+
+> El valor **primario** de un documento es el que se fundamenta en la utilidad o finalidad por la cual este documento fue diseñado.
+
+- **Valor administrativo**: El documento sirve para dar soporte a la gestión administrativa de una actividad. Por ejemplo: el albarán en un proceso de compra.
+
+- **Valor jurídico o probatorio**: Cuando los documentos son el soporte de un acto jurídico tienen valor probatorio de las obligaciones y derechos acordados entre diversas partes. Un ejemplo puede ser un contrato de compra-venta.
+
+- **Valor financiero o económico**: Cuando el documento ha sido creado como herramienta de pago.
+
+> El valor **secundario** és el que puede adquirir un documento una vez finalizado el tiempo de vigencia de la utilidad por la cual se creó.
+
+En esta categoría podemos considerar los documentos históricos o para investigación.
+
+#### Conservación de los documentos
+
+La empresa debe conservar los documentos, principalmente por dos motivos:
+
+1. Para recuperar la información contenida en los documentos para facilitar la gestión de la empresa o análisis de su evolución. És una conservación y acceso por **voluntad propia**.
+
+2. **Por imperativo legal**. En este sentido, las leyes y normas obligan a los empresarios a conservar la documentación _por su caracter probatorio_.
+
 #### Datos, información y conocimiento
 
 > A efectos prácticos podemos asimilar el concepto **conocimiento** a una información que ha sido interpretada, clasificada, aplicada y revisada, por lo que tiene un cierto valor para el usuario de la información inicial en cuanto a sus objetivos.
@@ -110,6 +132,21 @@ Un archivo **eficaz** debe:
     - Bajo un responsable.  
     - Todos los departamentos acuden aquí para consultar.  
 
+```
+Las ventajas de un sistema centralizado son:
+• Menor coste, ya que necesita menor cantidad de personal de apoyo.
+• Orden y control.
+• Es un sistema asequible para todos.
+• El procedimiento es uniforme.
+
+Entre sus inconvenientes podemos destacar:
+• Es un sistema estático.
+• Requiere personal especializado.
+• Es riguroso con el préstamo.
+• Retrasa la información.
+```
+
+
 **Descentralizados**:  
 
     - Por motivos:  
@@ -123,12 +160,42 @@ Un archivo **eficaz** debe:
         - Se evita que otro departamento acceda a información que no le corresponde.  
         - Un responsable por departamento.  
 
+```
+Entre las ventajas de un sistema descentralizado podemos señalar:
+• Mayor autonomía.
+• Rapidez de acceso.
+• Mayor proximidad.
+• Ajuste permanente.
+• No requiere personal especializado, aunque debería tenerlo.
+• Normas estrictas en cuanto al número de copias.
+• Normas para el control y seguimiento de documentos.
+
+Entre sus inconvenientes podemos señalar:
+• Falta de conocimiento del personal.
+• A veces falta información.
+• Dificultad en la búsqueda y control de los documentos.
+• Se incrementan las tareas, se multiplican los espacios, equipos, materiales y personal relacionados con los diferentes archivos.
+```
+
+
+
 **Mixtos**:  
 
     - Unión o mezcla de distintos tipos de archivos, por ejemplo:   
         - archivos activos o semiactivos: descentralizados  
         - archivos históricos: centralizados  
 
+```
+Las ventajas de un sistema mixto son:  
+• Rápida localización de documentos.  
+• Mayor elasticidad.  
+
+Entre las desventajas de un sistema mixto están:  
+• Falta de coordinación efectiva entre las dependencias.  
+• El archivo central debe establecer unas normas.  
+```
+
+--- 
 
 - Por su contenido: público o privado.  
 
@@ -155,17 +222,72 @@ Teniendo en cuenta las fases del **ciclo de vida** de un documento, los archivos
 
 **Semiactivo**: **edad intermedia**: para documentación que se consulta de manera ocasional. Procesos ya finalizados, como por ejemplo una factura ya pagada o un expediente cerrado.
 
+**Pasivo** o **definitivo**: **edad histórica**: para documentos que han superado el tiempo establecido por norma legal y no se prevee que sean consultados.
 
+El Código de Comercio establece en **6 años** el tiempo que debe guardarse la documentación. Pasado este tiempo, se puede destruir.
 
+---
 
 - Por el tipo de soporte utilizado: papel y electrónico.
 
-• **El proceso de archivamiento**
-- El registro de la documentación
-- La clasificación y la ordenación
-- La codificación
-- El pre-archivamiento
-- El archivamiento
+El **papel** es el soporte más utilizado por las Administraciones Públicas y algunas empresas, aunque hoy en día esto va siendo menos cierto según pasan los años. La forma y tamaño más común de papel es DIN A-4.
+
+El archivo electrónico o **fichero** tiene las siguientes ventajas:  
+- Acceso mucho más rápido.
+- Suele estar centralizado (?).
+- Ocupa mucho menos espacio físico.
+- Proporciona mucha más información que un archivo físico.
+- Permite una interrlación con otros documentos y distintas clasificaciones.
+- Se pueden consultar a miles de km de distancia.
+
+Los ficheros estan almacenados en soportes informáticos (ssd, redes, servidores, nube, etc.)
+
+---
+### • El proceso de archivamiento.  
+
+1 - **El registro de la documentación**
+
+Cuando la documentación llega a la empresa (o es generada por la empresa) se **debe registrar esta recepción** para que quede constancia de que nuestra empresa será depositaria de esa documentación.
+
+> Se debe **constatar** que cierta documentación está registrada en el **libro de registro** correspondiente. Con las anotaciones que conforman este registro obtendremos la información necesaria para saber cómo encontrar o localizar el archivo o documento.
+
+_Ejemplo_: un cliente nos dice que nos ha enviado una carta con un cheque adjunto, pero no estamos seguros de haberlo recibido. Iremos al registro de entrada de correspondencia para comprobar si, efectivamente, lo hemos recibido. Lo mismo haremos con las facturas que lleguen: existirá un registro donde haya constancia de qué facturas han llegado.
+
+2 - **La clasificación y la ordenación**
+
+El segundo paso en el proceso de archivamiento es la **clasificación y ordenación** de la documentación recibida.
+
+Una vez registrada, hay que distribuirla a las personas responsables, en función del sistema que tengamos establecido (centralizado, descentralizado o mixto).
+
+Este sistema de **clasificación y ordenación** debe ser fácilmente compresible, de forma que el acceso posterior sea ágil y rápido.
+
+
+3 - **La codificación**
+
+El proceso de codificación consiste en **dar una clave única** (que puede estar formada por letras y / o números) a cada uno de los documentos, que pasará a ser su identificador.
+
+Ejemplos:   
+    - en la contabilidad, el identificador 430001 puede ser el cliente X, mientras que el identificador 430002 puede ser el cliente Y.  
+    - en facturación, los identificadores son numéricos correlativos por año fiscal.
+
+4 - **El pre-archivamiento**
+
+Es lógico pensar que un empleado que está contabilizando facturas, no se levantará cada vez que tenga una nueva factura para ir al archivo a clasificarla, sino que se esperará a tener unas cuantas.
+
+Cuando el volumen de trabajo es alto, es posible que se acumulen una gran cantidad de documentos pendientes de ser archivados. Es recomendable, en esos casos, realizar un pre-archivamiento.
+
+Un ejemplo podría ser con carpetas clasificadoras por letras (orden alfabético).
+
+5 - **El archivamiento**
+
+El archivamiento consiste en guardar los documentos en la carpeta que les corresponde dentro de un conjunto de carpetas definido en nuestro archivo (clientes, proveedores...).
+
+Es conveniente que, una vez localizada la carpeta, exista un sistema adicional de ordenación (por ejemplo, el cronológico tipo pila para facilitar el acceso a los documentos más recientes).
+
+Otra opción podría ser anotar en lápiz en cada documento la fecha en que pueden ser destruidos o movidos a un archivo histórico.
+
+![fases_arxivament](https://github.com/MF0987-3-Sistemes-Informacio/UF0347/blob/main/img/fases_arxivament.png?raw=true)
+
 
 • Sistemas de registro y clasificación de documentos.	
 - Alfabético.  
