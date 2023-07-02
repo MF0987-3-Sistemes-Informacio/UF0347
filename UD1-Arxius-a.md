@@ -122,4 +122,12 @@
         c) Asignar los recursos necesarios.  
         d) Todas las respuestas son correctas.  
     
-    
+3. Ejercicio
+
+3.1. Elaborar un cuadro de clasificación de un departamento en una organización cualquiera.  
+3.2. Elaborar un índice numérico con los siguientes elementos:  
+Dirección: organización, planificación, objetivos.  
+Compras: materias primas, facturas.  
+Recursos humanos: personal, cursos, vacaciones, formación.  
+Logística: entregas, devoluciones, transporte.  
+

@@ -449,13 +449,13 @@ Por último, hay que detallar algunos **instrumentos** que se utilizan en el arc
 * Instrumentos de búsqueda: son instrumentos que permiten obtener una rápida información del contenido y la localización de los documentos.
 
 
-#### Análisis de la estructura de  la organización y el tipo de actividad, para fijar la estructura de archivo más adecuada.  
+#### **Análisis de la estructura de  la organización y el tipo de actividad, para fijar la estructura de archivo más adecuada**  
 
 El análisis de la estructura de la organización es crucial para comprender su papel y propósito, así como para identificar fortalezas y debilidades en la gestión de documentos. Esta investigación preliminar es fundamental para tomar decisiones futuras, especialmente al crear un cuadro de clasificación. Durante el análisis de la actividad, se estudian las funciones, actividades, procesos y trámites de la organización, con el objetivo de desarrollar un modelo conceptual que relacione los documentos con las actividades. 
 
 Además, es importante identificar estrategias que satisfagan las necesidades de gestión documental, considerando la naturaleza de la organización, su tipo de actividad, las tecnologías utilizadas, la cultura corporativa y los factores externos. Se debe seleccionar un sistema de organización adecuado en función del número de personas atendidas y el tipo de actividad. Los sistemas elegidos deben funcionar como un todo integrado para garantizar el seguimiento de los documentos desde su creación hasta su valoración final.
 
-#### Determinación de contenidos y tipo de documentos a archivar.  
+#### **Determinación de contenidos y tipo de documentos a archivar**  
 
 Para llevar a cabo una buena organización del archivo, hay que diferenciar entre los **documentos de archivo** y los **documentos de apoyo administrativo**. 
 
@@ -481,7 +481,7 @@ Los documentos de apoyo administrativo son los que sirven de **ayuda** a la gest
 > Los documentos de apoyo administrativo no testimonian la actividad de la organización y no forman parte de su patrimonio documental, por lo tanto, no se transferirán al archivo general y serán destruidos.
 
 
-#### Sistemas de registro y codificación a implantar. 
+#### **Sistemas de registro y codificación a implantar** 
 
 En el contexto de un archivo dinámico, es importante implementar sistemas de registro y codificación. El control de la documentación se logra mediante hojas de control que registran la entrada y salida de documentos, incluyendo la fecha, hora y responsable. Se recomienda utilizar bases de datos o hojas de cálculo con códigos para identificar y distinguir los documentos. La codificación implica asignar letras, números o una combinación de ambos a los documentos clasificados para su registro y archivo. 
 
@@ -496,7 +496,7 @@ E               31/07/2021  14:04   10-C0-05-15 Laura Cases
 S               07/09/2021  09:43   10-C0-07/11 Joan Puig
 
 
-#### Clasificación de documentos y niveles de acceso y restricciones del personal.  
+#### **Clasificación de documentos y niveles de acceso y restricciones del personal**  
 
 La clasificación de documentos es una operación archivística que establece categorías y grupos dentro de la estructura del archivo. Se realiza mediante un cuadro de clasificación que respeta los principios de procedencia y orden original. Esta clasificación tiene como objetivo proporcionar una estructura lógica al fondo documental que represente la institución y facilite la localización de los documentos. Es importante que sea flexible para adaptarse a los cambios en la estructura de la organización. 
 
@@ -521,7 +521,7 @@ En los archivos informáticos, existen diferentes permisos de acceso según el t
 La clasificación de la documentación se realiza en diferentes niveles de acceso, como **público** (sin protección especial) y **restringido** (con información sensible que requiere controles de acceso).
 
 
-#### Definición de las formas de acceso al archivo. 
+#### **Definición de las formas de acceso al archivo** 
 
 Las formas de acceso al archivo se dividen en **acceso físico** y **acceso electrónico**. 
 
@@ -539,118 +539,268 @@ En cuanto a las **normas de seguridad y acceso** hay que señalar:
 
 * Identificación de las personas que van a acceder al archivo. Deben estar autorizadas y, si no es así, deben ir acompañadas por personal responsable del archivo.
 
-Para mantener la integridad de los archivos, debe ser obligatorio que la consulta sea supervisada por los empleados del archivo y, si se trata de documentos electrónicos, mediante mecanismos informáticos que puedan garantizar su in-tegridad y protección.
+Para mantener la integridad de los archivos, debe ser obligatorio que la consulta sea supervisada por los empleados del archivo y, si se trata de documentos electrónicos, mediante mecanismos informáticos que puedan garantizar su integridad y protección.
 
 * Implantación de claves para evitar el acceso al archivo informático a personas que no estén autorizadas, especialmente para documentos que tengan carácter reservado o confidencial.
 
-* Actualización de los programas antivirus para evitar que la información con-tenida en los programas no se deteriore o se destruya.
+* Actualización de los programas antivirus para evitar que la información contenida en los programas no se deteriore o se destruya.
 
 * Realización de copias de seguridad periódicas, para evitar la pérdida de información incluida en los archivos informáticos.
 
 * Se deben tomar medidas necesarias para la conservación de los documentos, protegiéndolos tanto del deterioro físico como de que puedan caer en manos ajenas.
 
 
+#### **Normas de conservación de documentación obsoleta o histórica: destrucción y archivo definitivo**
+
+Sobre las normas de conservación de documentación obsoleta o histórica, así como la destrucción y archivo definitivo de los documentos, podemos destacar lo siguiente:
+
+* Existe el concepto de "archivo histórico" que alberga documentación con valores de consulta históricos y culturales.
+* La decisión sobre qué hacer con los documentos administrativos se toma después del proceso de valoración, en el cual participan el órgano productor, los organismos de archivos y expertos en el campo relacionado.
+* No todos los documentos se transfieren al archivo definitivo; algunos se destruyen por no ser significativos, mientras que otros se conservan en archivos de gestión por su importancia.
+* La documentación obsoleta o histórica debe ser conservada en un lugar con condiciones de ventilación adecuadas, protección contra la humedad, buena iluminación y sin polvo.
+* Una vez transferidos los documentos, deben estar disponibles para su consulta y ordenados correctamente.
+* Cada organización debe establecer plazos razonables para la eliminación periódica de documentación, siguiendo la legislación de protección de datos.
+* La eliminación de documentación debe realizarse de manera controlada y consultando la legislación vigente, utilizando máquinas destructoras si es necesario.
+
+Estas normas aseguran una gestión adecuada de la documentación obsoleta o histórica y garantizan el cumplimiento de la normativa de protección de datos.
+
+#### **Elaboración de manual de archivo, atendiendo a la normativa vigente, en relación con la calidad, uso y conservación de archivos**  
+
+**El manual de archivo**
+
+El **manual de archivo**, también conocido como manual de tareas, es un documento guía y de consulta para el uso de la documentación en el archivo. Desarrollado por archiveros y colaboradores cercanos, establece las indicaciones para el funcionamiento del archivo y asegura la uniformidad en los procesos comunes. Es esencial en archivos de ciertas dimensiones y se presenta en un clasificador con anillas para facilitar su consulta, reproducción y revisiones futuras.
+
+El manual debe abordar varios aspectos relacionados con el archivo, como la solicitud y concesión de acceso a la documentación, el método de destrucción de documentos, la normativa aplicable (incluyendo la LOPD y otras directrices empresariales), el modelo de gestión de calidad, los métodos de conservación de los documentos y el sistema de codificación utilizado para clasificarlos.
+
+Algunas de las normas frecuentes que aparecen en el manual de archivos son las actividades llevadas a cabo en las organizaciones, que ayudan a comprender el trabajo desarrollado.
+
+En el documento del manual se deben hacer menciones claras sobres estos aspectos:
+
+* La forma en la que se solicita el acceso a la documentación y cómo se concede en función de los perfiles de los que lo solicitan y el tipo de documentación.
+
+* El modo en el que se destruyen los documentos.
+
+* La normativa que se va a aplicar en el archivo. Se deben hacer menciones a la LOPD y a otras directrices empresariales que influyen en el tratamiento documental.
+
+* El modelo de gestión de calidad.
+
+* Los métodos de conservación de los documentos.
+
+* El sistema de codificación elegido para clasificar los documentos. 
+
+**El cuadro de clasificación**
+
+El cuadro de clasificación:
+
+* Es un índice de clasificación basado en las series documentales de una organización.
+* Incluye todas las series documentales, sin importar el soporte o la cronología.
+* Facilita la búsqueda, evitando duplicidades e inconexiones en la recuperación de la información.
+* Permite conocer el contexto de creación y la relación entre las series documentales.
+
+Codificación y organización:
+
+* Las series documentales se codifican y organizan jerárquicamente en categorías.
+* La codificación puede ser alfabética, numérica o alfanumérica.
+* Los códigos ofrecen información sobre las categorías y las series, facilitando el control y la recuperación de los documentos.
+* La codificación permite ordenar las carpetas y cajas del archivo de manera sistemática.
+
+Importancia del cuadro de clasificación:
+
+* La organización de los archivos se basa en el cuadro de clasificación.
+* Permite tener un amplio conocimiento de todos los documentos archivados.
+* Cada serie e índice deben estar correctamente explicados y valorados.
+* Los sistemas de ordenación deben ser reflejados en el manual, explicando el motivo de su elección.
+* Se deben incluir modelos de fichas, normas de ordenación, copias de seguridad y otra información relevante para facilitar la consulta.
+
+En resumen, el cuadro de clasificación es un elemento fundamental en la organización de los archivos, permitiendo una clasificación sistemática de las series documentales y facilitando la búsqueda y recuperación de la información.
+
+**El índice**
+
+El índice: Es una lista de carpetas que refleja la estructura del archivo y evita duplicados. Permite localizar documentos, asegura la coherencia con las necesidades de la organización y facilita las transferencias y eliminaciones de archivos. Se recomienda tener una versión en papel y una versión digital.
+
+**Manuales de procedimientos** :
+
+* Generales: Destinados a todos los empleados, abarcan los aspectos más importantes de la organización del archivo. Incluyen procedimientos, reglamentos relacionados con el personal y otra información general.  
+* Por departamentos o servicios: Contienen los procedimientos específicos de cada departamento o servicio. Deben estar accesibles en el escritorio correspondiente y se proporcionan copias a los empleados para su consulta constante.
+
+Estos manuales son herramientas útiles para garantizar la eficiencia en el manejo de los archivos y asegurar que los empleados tengan acceso a los procedimientos pertinentes en todo momento.
+
+**Ejemplo**:  
+ Elaborar un cuadro de clasificación requiere conocer muy bien la organización, las actividades y funciones que se llevan a cabo.
+
+ ```
+ 1. Dirección de personal.
+    1.1. Personal docente.
+        1.1.1. Profesores.
+            1.1.1. a. Expedientes de profesores.
+        1.1.2. Investigadores.
+    1.2. Personal no docente.
+        1.2.1. Personal de servicio.
+```
+
+#### **Comunicación a los empleados de los procedimientos de acceso**
+
+Los miembros de una organización deben disponer de la información sobre los procedimientos de acceso a los documentos.
+
+Estos procedimientos pueden estar recogidos en un **manual de procedimientos** donde podremos usar diagramas de flujo para facilitar su visualización y entendimiento.
 
 
-- Normas de conservación de documentación obsoleta o histórica: destrucción, archivo definitivo...  
-- Elaboración de manual de archivo, atendiendo a la normativa vigente, en relación con la calidad, uso y conservación de archivos.  
-- Comunicación a los empleados de los procedimientos de acceso.
+### • Custodia y protección del archivo
 
-• Custodia y protección del archivo
-- El responsable del archivo
-- Procedimientos de seguridad y confidencialidad de la información
-- El acceso al archivo
-- El control de la documentación
-- La transferencia de la documentación
-- La destrucción de la documentación
+#### **El responsable del archivo**
+
+Perquè un arxiu funcioni correctament caldrà unificar les normes per les quals
+es regiran totes les persones que tinguin accés a l’arxiu. Entre aquestes, podem
+destacar les següents:  
+
+• Unificar els sistemes de classificació i ordenació.  
+• Determinar qui pot accedir a la informació continguda a l’arxiu.  
+• Saber qui haurà de portar el control de seguiment de la documentació que
+surti de l’arxiu, i com ho ha de fer.  
+• Saber quina documentació es pot eliminar de l’arxiu i quina s’ha de
+transferir.  
+
+Per vetllar pel compliment de totes aquestes normes, a més de pactar-les amb tot
+l’equip que té accés a l’arxiu, serà convenient que en l’empresa es creï la figura del responsable de l’arxiu, especialment en empreses grans.
+
+> El responsable de l’arxiu és la persona encarregada de fer complir les
+normes de l’arxiu i responsable dels documents que conté.
+
+#### **Procedimientos de seguridad y confidencialidad de la información**
+
+L’empresa ha de garantir que el seu ús està restringit a aquell que ha estat previst i, per aquest motiu, és habitual que les organitzacions estableixin protocols d’accés, de manipulació i d’eliminació de la documentació escrita.
+
+> Wikileaks és una organització que s’ha fet popular per publicar
+documents confidencials referents a diferents estats.
+
+* Els **protocols d'accés** tenen com a finalitat restringir l'accés dels treballadors només a la informació rellevant per al seu treball. Això implica limitacions físiques, com arxivar els documents en llocs de difícil accés, o limitacions tècniques, com concedir claus d'accés només als usuaris autoritzats. A més, s'utilitzen avisos de confidencialitat per indicar quins documents són estrictament confidencials i no poden ser consultats sense autorització.
+
+* Els **protocols de manipulació** més comuns inclouen la limitació de l'espai on es poden utilitzar els documents, restringint-ne l'extracció del lloc de treball o de la zona de consulta de l'arxiu. Un altre protocol important és garantir la traçabilitat de la documentació, registrant les persones que han tingut accés als documents per poder determinar responsabilitats en cas de filtracions o accés no autoritzat.
+
+* Els **protocols d'eliminació** solen descriure el procés de destrucció de la documentació obsoleta. En cap cas, si aquesta documentació conté dades personals o empresarials, no s'ha de deixar abandonada en els contenidors de brossa. La pràctica més habitual és utilitzar trituradores de paper a l'oficina o, si el volum a destruir és gran, contractar serveis d'empreses especialitzades en aquesta tasca.
+
+#### **El acceso al archivo**
+
+```
+Normativa sobre control d’accés:
+
+Sobre el control d’accés el Reial Decret 1720/2007, de 21 de desembre, pel qual s’aprova el reglament de desplegament de la Llei orgànica 15/1999, de 13 de desembre, de protecció de dades de caràcter personal en el seu article 91 especifica:
+1. Els usuaris han de tenir accés només als recursos que necessitin per a l’exercici de les seves funcions.
+2. El responsable del fitxer s’ha d’encarregar que hi hagi una relació actualitzada d’usuaris i perfils d’usuaris, i els accessos autoritzats per a cadascun d’ells.
+3. El responsable del fitxer ha d’establir mecanismes per evitar que un usuari pugui accedir a recursos amb drets diferents dels autoritzats.
+4. Exclusivament el personal autoritzat per fer-ho en el document de seguretat pot concedir, alterar o anul·lar l’accés autoritzat sobre els recursos, de conformitat amb els criteris que estableix el responsable del fitxer.
+5. En cas que hi hagi personal aliè al responsable del fitxer que tingui accés als recursos, ha d’estar sotmès a les mateixes condicions i obligacions de seguretat que el personal propi.
+```
+
+**Organització en capes d'informació**: L'empresa utilitza un sistema d'accessos jeràrquics a la informació, similar a les capes d'una ceba.
+
+**Nivells d'accés**: Hi ha diferents nivells d'accés a la informació, des del més superficial fins al més estratègic.
+
+* _Primera capa_: Informació accessible als clients, com la llista de productes i les operacions realitzades amb l'empresa.
+* _Segona capa_: Informació coneguda pels treballadors, però no pels clients, com la recepta del cuiner o els costos de producció.
+* _Tercera capa_: Informació confidencial als treballadors, com els sous dels companys de treball.
+* _Quarta capa_: Informació altament restringida, accessible només per a poques persones de l'empresa, com els plans estratègics a llarg termini.
+* _Altres nivells_: S'estableixen altres nivells d'accés basats en projectes, on cada treballador només té accés a la informació relativa al seu projecte.
+
+> El dret d’accés és l’autorització que s’atorga a una persona o grup de
+persones perquè puguin accedir a una determinada documentació quan ho
+necessitin per al desenvolupament de la seva feina.
+
+**Les dades de caràcter personal**
+
+L’article 18.4 de la Carta Magna diu que «la Llei limitarà l’ús de la informàtica per garantir l’honor i la intimitat personal i familiar dels ciutadans i el ple exercici dels seus drets». Per aprofundir en aquesta norma, es dicta la Llei Orgànica 15/1999, de 13 de desembre, de Protecció de Dades de Caràcter Personal, que regula tot allò referent al tractament d’informació sobre persones físiques.
+
+Els anomenats drets ARCO donen als ciutadans la potestat de protegir les seves
+dades personals i d’exercir-hi un control efectiu. Aquests drets són els següents:
+
+* **Dret d’accés**. És el dret d’un mateix a sol·licitar i obtenir informació
+gratuïtament sobre si les seves dades personals es tracten, amb quina finalitat
+i quins usos concrets, d’on s’han tret, si s’han comunicat o es pretenen
+comunicar i a qui.
+
+* **Dret de rectificació**. És el dret d’un mateix a rectificar gratuïtament les
+seves dades personals quan siguin errònies o incompletes.
+
+* **Dret de cancel·lació**. És el dret d’un mateix a suprimir gratuïtament les
+seves dades personals quan siguin inadequades, excessives o innecessàries,
+o quan es conservin durant un temps superior al que pertoqui, o siguin
+contràries a la LOPD. La cancel·lació origina el bloqueig de les dades,
+i només s’han de conservar a la disposició d’administracions públiques,
+jutges i tribunals per atendre les responsabilitats que hi pugui haver. Una
+vegada passat el termini de prescripció, s’han de suprimir les dades.
+
+* **Dret d’oposició**. És el dret d’un mateix a sol·licitar gratuïtament que no
+es tractin les seves dades personals. Aquest dret es pot exercir en els casos
+següents:
+
+    * Quan no sigui necessari el seu consentiment per tractar les dades
+sempre que hi hagi un motiu legítim fonamentat relatiu a una situació
+personal concreta i cap llei no digui el contrari.
+    * Quan es tracti de fitxers amb una finalitat publicitària i de prospecció
+comercial.
+
+#### **El control de la documentación**
+
+> El control dels documents és el conjunt de processos encaminats a fer el
+seguiment de la documentació que entra i surt del nostre arxiu.
+
+També hi ha altres alternatives. Una és no prestar mai els documents originals,
+sinó fer-ne còpies per a qui els sol·liciti.
+
+Aquesta darrera opció és més utilitzada quan qui sol·licita la documentació són
+persones externes a l’empresa. Quan qui l’ha d’utilitzar és un treballador de la
+mateixa empresa és poc freqüent, ja que els costos augmenten molt (temps per fer
+fotocòpies, despesa...).
+
+![taula_sortida_documentacio](https://github.com/MF0987-3-Sistemes-Informacio/UF0347/blob/main/img/sortida_docs.png?raw=true)
+
+#### **La transferencia de la documentación**
+
+> El procés de transferència d’arxius consisteix en el canvi d’ubicació de la documentació a mesura que en disminueix el grau d’utilització.
+
+
+#### **La destrucción de la documentación**
+
+Abans de destruir cap document ens hem de fer algunes preguntes per assegurar-nos que no comentem
+un error:
+
+* És correcta legalment la seva eliminació? Recordem que la legislació marca els períodes durant els quals l’empresa ha de conservar una documentació determinada.
+
+* Podria ser-nos encara de certa utilitat la documentació? Aquesta pregunta caldrà respondre-la tenint en compte el cost d’oportunitat que suposaria eliminar-la en comparació amb els beneficis que es derivarien d’aquesta destrucció.
+
+```
+Destrucció de la documentació
+
+Diversos casos d’abandonament de documentació als contenidors d’escombraries sense haver-la destruït de manera adequada han tingut repercussió mediàtica i han arribat a generar alarma social.
+```
 
 • Flujogramas en la representación de procedimientos y procesos.
 - Concepto.  
 - Características, tipos, simbología, diseño y elaboración.
 
+Podemos clasificar los distintos diagramas de flujo en varios tipos.
+* Por su presentación:
+    * De bloque. Se representan en términos generales para destacar aspectos determinados.
+    * De detalle. Las actividades de forma detallada.
+* Por su formato:
+    * Formato vertical. El flujo va de arriba abajo y de derecha a izquierda.
+    * Formato horizontal. La secuencia de las operaciones va de derecha a izquierda de forma descendente.
+    * De formato tabular. Se presenta en una sola carta el flujo total de las operaciones, correspondiendo a cada puesto o unidad una columna.
+    * De formato arquitectónico. Se muestra el movimiento de las personas, materiales, o la secuencia de las operaciones a través del espacio donde se realizan.
+* Por su propósito:
+    * De forma. Son documentos con poca o nula descripción de operaciones.
+    * De labores. Se indica el flujo de las operaciones, así como quién las realiza o en qué consisten.
+    * Analítico. No solo se describe el procedimiento sino quién lo hace, cómo hacerlo y con qué fin.
+    * De método. Se muestra la secuencia de las operaciones, quién las realiza y la forma en que se hacen.
+    * De espacio. Indica el espacio mediante el cual se desplaza una persona o una forma.
+    * Combinados. Se utilizan dos o más diagramas en forma integrada.
+    * De texto e ilustraciones. Se muestra el manejo de la información por medio de textos y dibujos.
+    * Procesados por computadora. El flujo de información se hace utilizando recursos de software.
 
+![flujograma1](https://github.com/MF0987-3-Sistemes-Informacio/UF0347/blob/main/img/flujograma1.png?raw=true)
+
+![flujograma2](https://github.com/MF0987-3-Sistemes-Informacio/UF0347/blob/main/img/flujograma2.png?raw=true)
+
+
+[Ejemplo diagrama de flujo RRHH](https://www.appvizer.es/revista/recursos-humanos/reclutamiento/flujograma-reclutamiento) 
 --- 
-
-## 2. Utilización y optimización de sistemas informáticos de oficina
-
-• Análisis de sistemas operativos.  
-- Evolución, clasificación y funciones. 
-
-• Instalación y	configuración de sistemas operativos y aplicaciones.  
-- Controladores, parches y periféricos. 
-
-• Gestión del sistema operativo.  
-- Gestión de procesos, memoria, ficheros, usuarios y recursos.
-
-• Gestión del sistema de archivos.  
-- Elementos, funciones y búsquedas.
-
-• Exploración o	navegación.  
-- Barra de menú.  
-- Barra principal.  
-- Barra de dirección.  
-- Panel Lateral.  
-- Panel de visualización.  
-- Barra de estado.
-
-• Grabación, modificación e	intercambio de	información.  
-- Documentos estáticos y dinámicos.  
-- Vinculación e incrustación de información
-
-• Herramientas.  
-- Compresión y descompresión.  
-- Multimedia.
-
-• Procedimientos para usar y compartir recursos.  
-- Configuración de grupos de trabajo.  
-- Protocolos de comunicación.  
-- Servicios básicos de red.  
-
-• Optimización de los sistemas.  
-- Entorno gráfico y accesibilidad
-
-• Técnicas	de	diagnóstico básico y	solución de	problemas.  
-- Catálogo de incidencias.   
-- Reproducción de incidencias y soluciones.
-
-• Procedimientos de	seguridad, integridad, acceso y	protección de información.  
-- Copias de seguridad y mecanismos alternativos.   
-- Programas maliciosos.• Normativa legal aplicable.  
-- Propiedad intelectual.  
-- Ley Orgánica de Protección de Datos.  
-- Código de Comerc
-
-### 3. Implantación y transición de sistemas de gestión electrónica de la documentación
-
-• Organización y funcionamiento de los centros de documentación y archivo.  
-- Determinación de los elementos que inter vienen en un sistema informatizado de gestión documental.
-
-• Ventajas e inconvenientes del soporte informático, frente a los soportes convencionales.  
-- Desde el punto de vista de la seguridad.  
-- Desde la óptica del uso la racional de los recursos.  
-- Desde el punto de vista económico.
-
-• Definición del flujo documental a	partir de aplicaciones informáticasespecíficas.  
-- Flujo Paralelo.  
-- Flujo Secuencial.  
-- Flujo Convergente.  
-- Flujo Iterativo.
-
-• Diseño del sistema de	clasificación general para toda la	documentación.  
-- Determinación de los períodos de vigencia, atendiendo a los preceptos legales.
-- Codificación de documentos.  
-- Normalización de los sistemas de ordenación y clasificación: Manual de Archivo y clasificación de documentos.  
-- Valoración de los documentos a conservar en soporte papel, de acuerdo con la normativa legal.  
-- Establecimiento de niveles de seguridad (backup u otros medios), y de acceso a cada documento.  
-- Instrucciones para seguimiento, conservación, almacenamiento, duración del archivo, expurgo y control de documentos, de acuerdo con la normativa vigente.
-
-• Enfoques y Sistemas de Calidad en	la gestión de la documentación.  
-- UNE- ISO 15489.  
-- Modelo EFQM de Excelencia.  
-- Otras Normas
-
-
-
-
-
-
