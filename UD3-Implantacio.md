@@ -4,14 +4,14 @@ Contenidos
 ### 3. Implantación y transición de sistemas de gestión electrónica de la documentación
 
 • Organización y funcionamiento de los centros de documentación y archivo.  
-- Determinación de los elementos que inter vienen en un sistema informatizado de gestión documental.
+- Determinación de los elementos que intervienen en un sistema informatizado de gestión documental.
 
 • Ventajas e inconvenientes del soporte informático, frente a los soportes convencionales.  
 - Desde el punto de vista de la seguridad.  
 - Desde la óptica del uso la racional de los recursos.  
 - Desde el punto de vista económico.
 
-• Definición del flujo documental a	partir de aplicaciones informáticasespecíficas.  
+• Definición del flujo documental a	partir de aplicaciones informáticas específicas.  
 - Flujo Paralelo.  
 - Flujo Secuencial.  
 - Flujo Convergente.  

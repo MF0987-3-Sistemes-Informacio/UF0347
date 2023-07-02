@@ -45,7 +45,8 @@ Contenidos
 
 • Procedimientos de	seguridad, integridad, acceso y	protección de información.  
 - Copias de seguridad y mecanismos alternativos.   
-- Programas maliciosos.• Normativa legal aplicable.  
+- Programas maliciosos.
+- Normativa legal aplicable.  
 - Propiedad intelectual.  
 - Ley Orgánica de Protección de Datos.  
-- Código de Comerc
+- Código de Comercio
